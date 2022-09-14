@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">smart_owl</string>
+        <string name="facebook_app_id">1080639572827705</string>
+        <string name="fb_login_protocol_scheme">fb1080639572827705</string>
+        <string name="facebook_client_token">dce3ddb7a6451397c0b31c4adeeeb248</string>
+
+</resources>

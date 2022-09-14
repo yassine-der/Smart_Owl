@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "784380017460",
+    "firebase_url": "https://smartowl-2f856-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smartowl-2f856",
+    "storage_bucket": "smartowl-2f856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784380017460:android:c0f78d9788f7a26d238361",
+        "android_client_info": {
+          "package_name": "com.example.smart_owl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784380017460-qbalfks739j7f99fskg55rvtkhra8g56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_owl",
+            "certificate_hash": "38da0299b0097429f7c3d34049f39606bb91ecaa"
+          }
+        },
+        {
+          "client_id": "784380017460-1e1ke9j5g7h98qknb2938k8hg6qh901q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfSP_HefhCGG500ZxUR4NUekjNXQzxoaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784380017460-1e1ke9j5g7h98qknb2938k8hg6qh901q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
